@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.enaitzdam.appmvvmzero"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.enaitzdam.appmvvmzero"

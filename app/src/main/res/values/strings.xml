@@ -2,5 +2,7 @@
     <string name="app_name">AppMVVMZero</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="count">Count</string>
+    <string name="btn_count">Count</string>
+    <string name="age">AGE</string>
+    <string name="count">%s</string>
 </resources>
